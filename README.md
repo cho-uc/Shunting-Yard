@@ -1,9 +1,9 @@
 # Summary
 A web-based calculator based on Shunting Yard Algorithm
 
-# Directories
-- Template/input.html : main page
-- Template/algo.js : script containing all javascript functions
+# Files/Directories
+- input.html : main page
+- algo.js : script containing all javascript functions
 
 
 # References:
@@ -12,5 +12,5 @@ A web-based calculator based on Shunting Yard Algorithm
 - https://www.martinbroadhurst.com/shunting-yard-algorithm-in-python
 
 
-![UI](UI.png)
+![UI](UI-01.png)
 
